@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO;MY_NAME+=+"DIWANSHU+YADAV";I_DABBLE_IN+=+"ML,+DL,+Graphs";MY_EXPERTISE+>+"2+YEARS+IN+ML,+DL,+DS";IF+(LIKE_MY_WORK+==+true)+{+FOLLOW+%26%26+STAR+};SEE+YA!!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=404:+Greeting+Not+Found.+JK,+Hii+Human;MY_NAME+=+"DIWANSHU+YADAV";I_DABBLE_IN+=+"ML,+LLMs,+Algorithms";IF+(LIKE_MY_WORK+==+true)+{+FOLLOW+%26%26+STAR+};SEE+YA!!;)](https://git.io/typing-svg)
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=diwanshuydv&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="diwanshuydv" /></div>
 
@@ -8,8 +8,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwanshuydv&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1116" />
 </div>
 <!-- ./STATS GRAPH  -->
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diwanshuydv&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diwanshuydv/diwanshuydv/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diwanshuydv/diwanshuydv/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/diwanshuydv/diwanshuydv/output/github-snake.svg" />
+</picture>
 
 
 ### Code Languages:
@@ -29,6 +32,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&labelColor=0D1117)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb&labelColor=0D1117)
 ![Chroma](https://img.shields.io/badge/Chroma-0D1117.svg?style=for-the-badge&logo=ChromaDB&labelColor=0D1117)
+![Pinecone](https://img.shields.io/badge/Pinecone-0D1117.svg?style=for-the-badge&logo=pinecone&labelColor=0D1117)
+![Qdrant](https://img.shields.io/badge/Quadrant-0D1117.svg?style=for-the-badge&logo=data:image/svg+xml;base64,<base64-encoded-Quadrant-logo>&labelColor=0D1117)
 
 
 
